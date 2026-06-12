@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**superboss117/superboss117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pedro Melo
 
-Here are some ideas to get you started:
+Mestrando em Engenharia Informática, com interesse em sistemas distribuídos, cibersegurança, criptografia, agentes inteligentes, Linux e integração de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas principais
+
+- Sistemas distribuídos
+- Cibersegurança e análise de risco
+- Criptografia aplicada
+- Agentes com LLMs
+- Linux, Arch/Hyprland e automação
+- Integração de sistemas e digital twins
+
+## Projetos em destaque
+
+- Secure Messenger — sistema de mensagens seguras com Ed25519, X25519, HKDF e ChaCha20-Poly1305
+- WAVY Ocean Monitoring — sistema distribuído de monitorização oceânica com agregadores e servidor
+- IA para conceção de produtos — pipeline multiagente para requisitos, análise e sketching
+- MONARC Risk Analysis — análise de risco focada em riscos de informação
+
+## Stack
+
+Python · C# · .NET · Docker · RabbitMQ · Kafka/Redpanda · SQL · Linux · Git
